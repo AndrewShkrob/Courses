@@ -1,15 +1,15 @@
 #include <iostream>
 #include <vector>
-#include <queue>
+#include <stack>
 
 using std::vector;
 using std::pair;
 
 void dfs(const vector<vector<int>> &adj, vector<bool> &visited, int x) {
-    std::queue<int> to_visit;
+    std::stack<int> to_visit;
     to_visit.push(x);
     while (!to_visit.empty()) {
-        x = to_visit.front();
+        x = to_visit.top();
         visited[x] = true;
         to_visit.pop();
         for (int i : adj[x]) {
