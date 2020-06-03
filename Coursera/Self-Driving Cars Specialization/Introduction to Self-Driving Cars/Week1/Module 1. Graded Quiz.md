@@ -1,5 +1,5 @@
 1. **Scenario 1: You’re at home and need to drive to work**
-![Scheme](/images/1.png?raw=true)
+![Scheme](images/1.png?raw=true)
 >    * Maintaining a distance to a vehicle ahead
 ___
 2. Which of the following tasks are associated with **perception**?
