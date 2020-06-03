@@ -18,6 +18,7 @@ ___
 You’re approaching an all ways stop sign and you want to make a right turn. Your vehicle is denoted in orange. There are 2 pedestrians currently crossing and another vehicle (denoted in green) approaching the stop sign from the left.
 
 ![Scheme](images/5.png?raw=true)
+
 This task involves multiple considerations, which of them are **predictive planning**? Select all that apply.
 >    * Wait for the pedestrians to finish crossing before turning
 >    * The green car arrives at the stop sign after you and plans to  travel straight through the intersection. You choose to move first.
@@ -46,6 +47,7 @@ ___
 10. **Scenario 3**: You are on the highway and you see a truck in front of you. Assume the car is driving on the right-hand side of the road. There is also a blue car beside the truck in the other lane.
 
 ![Scheme](images/10.png?raw=true)
+
 Your vehicle follows the truck and maintains a constant distance away. What kind of **control** is this?
 >    * Longitudinal
 ___
@@ -66,6 +68,7 @@ ___
 Assume the car is driving on the right-hand side of the road. Your vehicle is denoted in orange.
 
 ![Scheme](images/15_1.png?raw=true)
+
 You see a construction site where the workers are repaving a road full of potholes. They are using jackhammers which can cause dust clouds.
 You create the following decision tree for getting through the construction site. From the diagram, which of the following decisions should you make? (**green is true, red is false**)
 
@@ -84,6 +87,7 @@ ___
 17. **Scenario 5**: You’re finished work and need to drive back home, but it’s nighttime.
 
 ![Night](images/17.png?raw=true)
+
 You plan a new path home on your GPS application to avoid the construction site, **what type of planning is this**?
 >    * Long term planning
 ___
