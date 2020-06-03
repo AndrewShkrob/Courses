@@ -82,6 +82,7 @@ You plan a new path home on your GPS application to avoid the construction site,
 >    * Long term planning
 ___
 18. Your new path goes through a school zone and you see the school zone sign. You decide to slow down despite there being no pedestrians or children (it’s nighttime). What sort of **planning** is this?
+
 ![Scheme](images/18.png?raw=true)
 >    * Rule based planning
 ___
