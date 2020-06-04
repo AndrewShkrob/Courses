@@ -1,4 +1,4 @@
-# Course ["Основы разработки на C++: белый пояс"](Introduction to Self-Driving Cars)
+# Course ["Introduction to Self-Driving Cars"](https://www.coursera.org/learn/intro-self-driving-cars)
 ###### from UNIVERSITY OF TORONTO
 ***
 ## About this Course
